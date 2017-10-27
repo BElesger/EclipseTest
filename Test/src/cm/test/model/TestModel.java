@@ -6,6 +6,7 @@ public class TestModel {
 	private String surname;
 	private String fathername;
 	private String street;
+	private String post;
 
 	@Override
 	public String toString() {
