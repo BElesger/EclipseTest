@@ -4,6 +4,7 @@ public class TestModel {
 	private long id;
 	private String name;
 	private String surname;
+	private String fathername
 
 	@Override
 	public String toString() {
