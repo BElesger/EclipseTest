@@ -4,7 +4,8 @@ public class TestModel {
 	private long id;
 	private String name;
 	private String surname;
-	private String fathername
+	private String fathername;
+	private String street;
 
 	@Override
 	public String toString() {
