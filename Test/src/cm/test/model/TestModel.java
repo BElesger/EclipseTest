@@ -7,6 +7,9 @@ public class TestModel {
 	private String fathername;
 	private String street;
 	private String post;
+	private String city;
+	private String area;
+		
 
 	@Override
 	public String toString() {
