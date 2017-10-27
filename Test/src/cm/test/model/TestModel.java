@@ -4,6 +4,12 @@ public class TestModel {
 	private long id;
 	private String name;
 	private String surname;
+	private String fathername;
+	private String street;
+	private String post;
+	private String city;
+	private String area;
+		
 
 	@Override
 	public String toString() {
